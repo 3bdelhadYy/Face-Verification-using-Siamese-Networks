@@ -2,7 +2,7 @@
 
 A deep learning project for face verification (not classification) using Siamese Networks on the LFW (Labeled Faces in the Wild) dataset. The system learns to determine whether two face images belong to the same person based on similarity in embedding space.
 
-🚀 Features
+🚀 Features \n
 🔹 Siamese Network architecture for similarity learning
 🔹 Custom CNN backbone (built from scratch)
 🔹 Transfer Learning using VGG16
